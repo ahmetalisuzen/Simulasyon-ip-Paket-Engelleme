@@ -1,5 +1,5 @@
 import pyshark
-cap = pyshark.FileCapture('C:\\Users\\Hatice\\Desktop\\wiresharkx.pcapng')
+cap = pyshark.FileCapture(' Kendi Wireshark tarama kodunun yolunu yazınız. ')
 cap
 engelleme = "Girilen numaralı paket engellenmiştir."
 paketNo0 = cap[0]
