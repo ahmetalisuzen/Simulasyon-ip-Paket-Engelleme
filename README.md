@@ -1,4 +1,4 @@
-# Similasyon-ip-Paket-Engelleme
+# Simülasyon-ip-Paket-Engelleme
 Python 3 ile yazılmıştır!!!!
 Bilgisayarınıza Wireshark uygulaması yüklü olması gerekmektedir.
 Wireshark ile tarama yapıp kaydedin.
